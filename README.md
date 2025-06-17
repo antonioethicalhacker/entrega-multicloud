@@ -81,7 +81,7 @@
 - Certifique-se de que os **Security Groups e Network Security Groups (NSG)** estejam liberando o tráfego entre as redes.
 - Mantenha o protocolo **IKEv2** configurado em ambos os lados.
 - O tempo de propagação da VPN pode variar entre alguns minutos.
-
+- Adicione uma sub-rede pública em cada uma para possibilitar o acesso remoto (SSH).
 ---
 
 > ✅ Conexão Multi-Cloud finalizada com sucesso!
